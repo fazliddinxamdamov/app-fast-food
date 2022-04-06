@@ -1,0 +1,21 @@
+[submodule "app-product-service"]
+	path = app-product-service
+	url = git@github.com:fazliddinxamdamov/app-branch-service.git
+[submodule "app-product-service"]
+	path = app-product-service
+	url = git@github.com:fazliddinxamdamov/app-product-service.git
+[submodule "app-order-service"]
+	path = app-order-service
+	url = git@github.com:fazliddinxamdamov/app-order-service.git
+[submodule "app-auth-service"]
+	path = app-auth-service
+	url = git@github.com:fazliddinxamdamov/app-auth-service.git
+[submodule "app-gateway-service"]
+	path = app-gateway-service
+	url = git@github.com:fazliddinxamdamov/app-gateway-service.git
+[submodule "app-register-service"]
+	path = app-register-service
+	url = git@github.com:fazliddinxamdamov/app-register-service.git
+[submodule "app-db-library"]
+	path = app-db-library
+	url = git@github.com:fazliddinxamdamov/app-db-library.git
