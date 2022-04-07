@@ -1,6 +1,3 @@
-[submodule "app-branch-service"]
-	path = app-branch-service
-	url = git@github.com:fazliddinxamdamov/app-branch-service.git
 [submodule "app-product-service"]
 	path = app-product-service
 	url = git@github.com:fazliddinxamdamov/app-product-service.git
@@ -10,9 +7,6 @@
 [submodule "app-auth-service"]
 	path = app-auth-service
 	url = git@github.com:fazliddinxamdamov/app-auth-service.git
-[submodule "app-gateway-service"]
-	path = app-gateway-service
-	url = git@github.com:fazliddinxamdamov/app-gateway-service.git
 [submodule "app-register-service"]
 	path = app-register-service
 	url = git@github.com:fazliddinxamdamov/app-register-service.git
