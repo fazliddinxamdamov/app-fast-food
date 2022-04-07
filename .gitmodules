@@ -1,5 +1,5 @@
-[submodule "app-product-service"]
-	path = app-product-service
+[submodule "app-branch-service"]
+	path = app-branch-service
 	url = git@github.com:fazliddinxamdamov/app-branch-service.git
 [submodule "app-product-service"]
 	path = app-product-service
