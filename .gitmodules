@@ -13,6 +13,3 @@
 [submodule "app-db-library"]
 	path = app-db-library
 	url = git@github.com:fazliddinxamdamov/app-db-library.git
-	[submodule "app-gateway-service"]
-    	path = app-gateway-service
-    	url = git@github.com:fazliddinxamdamov/app-gateway-service.git
